@@ -1,6 +1,6 @@
 # Walmart-dashboard
 <h2>Introduction</h2>
-<h4>In this assignment, I've visualized a detailed Walmart dashboard using the Jobaaj dataset.<h4>
+<h4>This assignment was a great learning opportunity as I used Powerbi to visualize the Jobaaj dataset and create a detailed Walmart dashboard. It was quite challenging yet rewarding to be able to see all the insights and patterns that the data revealed when visualized. I also got an opportunity to learn about Powerbi better in my live classes, which increased my confidence in using this software for future projects. This assignment has definitely helped me gain a better understanding of data visualization and how it is important for making business decisions.<h4>
 <h2>Steps</h2>
 <h3>Step 1:- Stacked Bar Chart</h3>
 <h4>First, I used the Stacked bar chart to find the Count of Sales in each state<h4>
